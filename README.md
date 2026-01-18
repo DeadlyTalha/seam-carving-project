@@ -1,4 +1,5 @@
 > # Projet Seam Carving - Théorie des Graphes
+## Implémentation de l'algorithme de seam carving 
 Ce projet est un exercice qui nous a été donné par notre prof.
 
 ## Objectif
