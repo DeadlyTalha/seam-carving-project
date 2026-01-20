@@ -194,10 +194,6 @@ class Seam_carver:
 
 if __name__ == "__main__":
     main()
-
     
-    
-    
-
 
     
